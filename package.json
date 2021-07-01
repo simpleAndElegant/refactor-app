@@ -9,7 +9,7 @@
     "test:ci": "cypress run --headless"
   },
   "dependencies": {
-    "vue": "~3.0",
+    "vue": "~3.1",
     "vuex": "~4.0"
   },
   "devDependencies": {
@@ -20,7 +20,7 @@
     "@typescript-eslint/eslint-plugin": "~4.15",
     "@typescript-eslint/parser": "~4.15",
     "@vitejs/plugin-vue": "~1.1",
-    "@vue/compiler-sfc": "~3.0",
+    "@vue/compiler-sfc": "~3.1",
     "@vue/eslint-config-standard": "~6.0",
     "@vue/eslint-config-typescript": "~7.0",
     "@vuedx/typecheck": "~0.6",
